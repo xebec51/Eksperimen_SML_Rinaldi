@@ -7,6 +7,10 @@ on:
     paths:
       - 'data_raw/**'
       - 'preprocessing/automate_Rinaldi.py'
+  workflow_dispatch: # <-- Menambahkan opsi trigger manual
+
+permissions:
+  contents: write # <-- Menambahkan izin agar bot bisa melakukan commit/push
 
 jobs:
   build:
