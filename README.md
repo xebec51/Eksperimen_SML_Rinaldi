@@ -30,12 +30,12 @@
 ### 🎓 Sertifikat Kelulusan Resmi
 Sebagai bukti pemenuhan kriteria kompetensi tingkat lanjut (*Advanced*), berikut adalah sertifikat kelulusan dari Dicoding. *Klik pada gambar di bawah:*
 
-<div style="display: flex; width: 100%; gap: 5px; justify-content: stretch;">
-  <a href="https://www.dicoding.com/certificates/RVZK0M64MZD5">
-    <img src="assets/sertifikat_page_1.jpg" style="width: 100%; height: auto; display: block;" alt="Sertifikat Halaman 1" />
+<div style="display: flex; flex-direction: row; gap: 8px; justify-content: center; align-items: center;">
+  <a href="https://www.dicoding.com/certificates/RVZK0M64MZD5" style="flex: 0 0 auto;">
+    <img src="assets/sertifikat_page_1.jpg" style="width: 48%; max-width:360px; height: auto; display: block;" alt="Sertifikat Halaman 1" />
   </a>
-  <a href="https://www.dicoding.com/certificates/RVZK0M64MZD5">
-    <img src="assets/sertifikat_page_2.jpg" style="width: 100%; height: auto; display: block;" alt="Sertifikat Halaman 2" />
+  <a href="https://www.dicoding.com/certificates/RVZK0M64MZD5" style="flex: 0 0 auto;">
+    <img src="assets/sertifikat_page_2.jpg" style="width: 48%; max-width:360px; height: auto; display: block;" alt="Sertifikat Halaman 2" />
   </a>
 </div>
 
